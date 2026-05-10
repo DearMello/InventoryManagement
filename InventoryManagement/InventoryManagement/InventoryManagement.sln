@@ -1,0 +1,39 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement.Domain", "InventoryManagement.Domain\InventoryManagement.Domain.csproj", "{FFFFFFFF-1111-1111-1111-FFFFFFFFFFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement.Application", "InventoryManagement.Application\InventoryManagement.Application.csproj", "{FFFFFFFF-2222-2222-2222-FFFFFFFFFFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement.Infrastructure", "InventoryManagement.Infrastructure\InventoryManagement.Infrastructure.csproj", "{FFFFFFFF-3333-3333-3333-FFFFFFFFFFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement.API", "InventoryManagement.API\InventoryManagement.API.csproj", "{FFFFFFFF-4444-4444-4444-FFFFFFFFFFFF}"
+EndProject
+
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {FFFFFFFF-1111-1111-1111-FFFFFFFFFFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {FFFFFFFF-1111-1111-1111-FFFFFFFFFFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {FFFFFFFF-1111-1111-1111-FFFFFFFFFFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {FFFFFFFF-1111-1111-1111-FFFFFFFFFFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+        {FFFFFFFF-2222-2222-2222-FFFFFFFFFFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {FFFFFFFF-2222-2222-2222-FFFFFFFFFFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {FFFFFFFF-2222-2222-2222-FFFFFFFFFFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {FFFFFFFF-2222-2222-2222-FFFFFFFFFFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+        {FFFFFFFF-3333-3333-3333-FFFFFFFFFFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {FFFFFFFF-3333-3333-3333-FFFFFFFFFFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {FFFFFFFF-3333-3333-3333-FFFFFFFFFFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {FFFFFFFF-3333-3333-3333-FFFFFFFFFFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+        {FFFFFFFF-4444-4444-4444-FFFFFFFFFFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {FFFFFFFF-4444-4444-4444-FFFFFFFFFFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {FFFFFFFF-4444-4444-4444-FFFFFFFFFFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {FFFFFFFF-4444-4444-4444-FFFFFFFFFFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal
